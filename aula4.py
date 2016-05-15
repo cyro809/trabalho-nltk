@@ -4,27 +4,7 @@ import nltk
 from nltk.tokenize import WhitespaceTokenizer
 from nltk import ne_chunk, pos_tag, word_tokenize
 from nltk.tree import Tree
-
-
-# Utilizado para retornar as entidades nomeadas de nome completo (ex: "Barack Obama" ao invés de "Barack" e "Obama")
-def get_continuous_chunks(text):
-    chunked = ne_chunk(pos_tag(word_tokenize(text)))
-    prev = None
-    continuous_chunk = []
-    current_chunk = []
-
-    for i in chunked:
-        if type(i) == Tree:
-            current_chunk.append(" ".join([token for token, pos in i.leaves()]))
-        elif current_chunk:
-            named_entity = " ".join(current_chunk)
-            if named_entity not in continuous_chunk:
-                continuous_chunk.append(named_entity)
-                current_chunk = []
-        else:
-            continue
-
-    return continuous_chunk
+from nltk.tokenize.util import regexp_span_tokenize
 
 def split_articles():
 	filename = "teste"
@@ -52,12 +32,16 @@ named_entities = []
 # Utilizado para retornar entidades nomeadas (Precisa de ajustes)
 for i in range(len(sent3)):
     if "NE" in str(sent3[i]):
-        named_entities.append([token for token, pos in sent3[i].leaves()])
-        #print sent3[i].leaves()[0][0]
+        named_entities.append(' '.join(token[0] for token in sent3[i].leaves()))
+
+
+
+# word_indexes = [list(regexp_span_tokenize(content, re.compile("^(?!{0}).*$".format(token)))) for token in named_entities]
+
+# print word_indexes
+print
 print indexes
-
-#print get_continuous_chunks(content)
-
+print
 print named_entities
 
-# A ideia é buscar as entidades nomeadas e através do regex tokenize (ou algum outro) buscar no texto as posições de cada uma
+# A ideia eh buscar as entidades nomeadas e atraves do regex tokenize (ou algum outro) buscar no texto as posicoes de cada uma
