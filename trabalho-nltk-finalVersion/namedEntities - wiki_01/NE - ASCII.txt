@@ -1,0 +1,262 @@
+ASCII
+American Standard Code
+IANA
+ASCII
+ASCII
+ASCII
+ASCII
+ASCII
+Bell
+ASCII
+American Standards Association
+ASA
+Bell
+ASCII
+English
+ASCII
+ASCII
+Teletype
+ASCII
+American Standard Code
+ASCII
+American Standards Association
+ASA
+ASA
+United States
+America Standards Institute
+USASI
+American National Standards Institute
+ASCII
+ASCII
+ASCII
+Comité Consultatif International Téléphonique
+CCITT
+ITA2
+Fieldata
+EBCDIC
+ASCII
+ITA2
+ASCII
+ASCII
+DEC
+British
+Remington No
+ASCII
+European
+Teletype
+ASCII
+IBM Selectric
+IBM
+Model
+ASCII
+ASCII
+Europe
+French
+EOA
+EOM
+EOT
+WRU
+DC0
+SYNC
+ASCII
+ASA
+CCITT Working Party
+New Telegraph Alphabet
+International Organization
+ASCII
+SOM
+SOH
+RU
+ASCII
+USASI
+USASI
+ANSI
+ANSI
+ANSI
+ANSI
+ASCII
+American Telephone
+Telegraph
+TeletypeWriter
+eXchange
+ITA2
+Telex
+Bob Bemer
+British
+Bemer
+ASCII
+Europe
+ASCII
+Bemer
+ASCII
+U.S.
+Lyndon
+Johnson
+United States
+ASCII
+Commerce
+Standard Code
+Standard Code
+ASCII
+English
+United States
+United Kingdom
+ASCII
+ASCII
+USA
+Canada
+French
+ISCII
+India
+VISCII
+YUSCII
+Yugoslavia
+ASCII
+ASCII
+ANSI
+ASCII
+Unicode
+ASCII
+ASCII
+ASCII
+ASCII
+ASCII
+ASCII
+ASCII
+ASCII
+ASCII
+ASCII
+Teletype
+Paper
+Teletype
+DC1
+XON
+DC3
+XOFF
+Delete
+BEL
+BEL
+Shift
+ASR
+XOFF
+XON
+DC2
+DC4
+TAPE
+TAPE
+Teletype
+Teletype
+NUL
+NULs
+ASCII
+Digital Equipment Corporation
+DEL
+Unix
+DEL
+ESC
+URL
+ESC
+ANSI
+ESC
+TECO
+GUI
+ESC
+Teletype
+RSTS
+Teletype
+TTYs
+CRTs
+DEC
+IBM
+EBCDIC
+ASCII
+IBM
+Microsoft
+Windows
+Unix
+Amiga
+Multics
+Macintosh OS
+Apple DOS
+ProDOS
+Apple
+ARPANET
+TENEX
+EBCDIC
+ASCII
+Telnet
+Network Virtual Terminal
+NVT
+ASCII
+NVT
+Telnet
+Network Virtual Terminal
+ASCII
+NVT
+SUB
+EOF
+SUBstitute
+ETX
+ETX
+Unix
+ASCIZ
+ASCIIZ
+DEL
+ASCII
+ASCII
+ASCII
+IBM367
+csASCII
+IANA
+ASCII
+US
+ASCII
+ASCII
+ASCII
+ASCII
+ASCII
+ASCII
+PETSCII
+Commodore International
+Galaksija
+ASCII
+ASCII
+ISO
+ASCII
+ASCII
+ASCII
+German
+French
+Swedish
+ASCII
+ANSI C
+Swedish
+German
+Swedish
+ASCII
+ASCII
+Kaypro
+Greek
+IBM
+DOS
+IBM PCs
+Digital Equipment Corporation
+VT220
+Macintosh
+Mac OS Roman
+Postscript
+ASCII
+Microsoft
+ASCII
+ASCII
+Unicode
+UCS
+ASCII
+ASCII
+Unicode
+UCS
+ASCII
+ASCII
+ASCII
+ASCII
+ASCII

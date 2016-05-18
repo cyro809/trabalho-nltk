@@ -1,0 +1,94 @@
+International Atomic Time
+TAI
+French
+Earth
+Coordinated Universal Time
+UTC
+Earth
+Terrestrial Time
+TAI
+UTC
+UTC
+TAI
+Earth
+Julian Dates
+Gregorian
+Universal Time
+Earth
+TAI
+GPS
+TAI
+UTC
+TAI
+NPL
+UTC
+National Physical Laboratory
+TAI
+NPL
+NPL
+TAI
+International Bureau
+Weights
+Measures
+BIPM
+France
+Circular T
+TAI
+Circular
+Circular
+TAI
+TAI
+TAI
+Terrestrial Time
+Atomic
+National Physical Laboratory
+UK
+NPL
+Greenwich Atomic
+Royal Greenwich Observatory
+International Time Bureau
+BIH
+VLF
+United States Naval Observatory
+National Bureau
+Standards
+Boulder
+Colorado
+BIH
+Julian
+UT2
+BIH
+BIH
+UT2
+UT2
+International Atomic Time
+TAI
+TAI
+TAI
+Julian
+TAI
+TAI
+Echelle Atomique Libre
+Atomic Scale
+Barycentric Coordinate Time
+TCB
+Geocentric Coordinate Time
+TCG
+Terrestrial Time
+Ephemeris Time
+TAI
+TAI
+TAI
+TAI
+BIPM
+UTC
+CCTF
+TAI
+UTC
+UTC
+UTC
+UT2
+UT1
+BIH
+UT1
+Universal
